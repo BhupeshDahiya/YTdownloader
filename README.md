@@ -1,5 +1,5 @@
 # YTdownloader
-Script to download video/audio files from a youtube link without going through all the hazzle.
+Script to download video/audio files from a youtube link to your downloads folder without going through all the hazzle.
 
 ## Prerequisites
 You'll need need pafy, requests and youtube-dl 
